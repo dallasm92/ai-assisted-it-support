@@ -1,10 +1,17 @@
 # AI-Assisted IT Support
 
 Framework and examples for using AI as a support accelerator without replacing core troubleshooting discipline.
-Last reviewed: February 13, 2026
+Last reviewed: March 16, 2026
 
 ## Purpose
 This repository shows how I use AI to improve speed, structure, and documentation quality in IT support workflows while keeping decisions evidence-based and security-conscious.
+
+## Best Fit
+This repo is supporting portfolio evidence, not the first place to start.
+If you want direct hands-on troubleshooting proof first, begin with:
+- [IT Support Labs](https://github.com/dallasm92/it-support-labs)
+- [PC Build - MAIN-PC](https://github.com/dallasm92/pc-build-main-pc)
+- [Active Directory Lab](https://github.com/dallasm92/ad-lab-windows-server-2022)
 
 ## What This Repo Includes
 - Practical workflow for AI-assisted incident handling
