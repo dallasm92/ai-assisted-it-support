@@ -1,7 +1,7 @@
 # AI-Assisted IT Support
 
 Framework and examples for using AI as a support accelerator without replacing core troubleshooting discipline.
-Last reviewed: March 16, 2026
+Last reviewed: April 13, 2026
 
 ## Purpose
 This repository shows how I use AI to improve speed, structure, and documentation quality in IT support workflows while keeping decisions evidence-based and security-conscious.
